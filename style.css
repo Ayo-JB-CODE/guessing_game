@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(../image/rohit-choudhari-tk2_RBZq7RA-unsplash.jpg);
+    background-image: url("./image/Game.jpg");
     background-position: center;
     background-size: contain;
     font-family: "Lilita One", sans-serif;

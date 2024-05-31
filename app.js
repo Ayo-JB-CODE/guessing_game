@@ -2,7 +2,7 @@ const userInput = document.getElementById('userInput');
 const displayScreen = document.getElementById('display-screen');
 const checkButton = document.getElementById('check-btn');
 
-const secreteNum = Math.floor(Math.random() * 4) + 1;
+const secreteNum = Math.floor(Math.random() * 100) + 1;
 let countDown = 1;
 // Check The Console for The Exposure of The Secret Number
 console.log(secreteNum);
